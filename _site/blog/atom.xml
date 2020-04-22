@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>Uday's Blog</title>
+	<link href="http://udaykadaboina.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://udaykadaboina.github.io/blog"/>
+	<updated>2020-04-22T18:03:32-04:00</updated>
+	<id>http://udaykadaboina.github.io/blog</id>
+	<author>
+		<name>Uday Kadaboina</name>
+		<email>aimuday@aol.com</email>
+	</author>
+
+	
+		<entry>
+			<title>Uday, Launches Site again!</title>
+			<link href="http://udaykadaboina.github.io/blog/2019/04/17/site-launched"/>
+			<updated>2019-04-17T00:00:00-04:00</updated>
+			<id>http://udaykadaboina.github.io/blog/2019/04/17/site-launched</id>
+			<content type="html">&lt;p&gt;Well. Finally got around to putting this old website together. Neat thing about it - powered by &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+</content>
+		</entry>
+	
+
+</feed>
